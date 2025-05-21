@@ -13,8 +13,8 @@ To get started with the project, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/username/burningbros.git
-    cd burningbros
+    git clone https://github.com/diendev03/burningbros_test.git
+    cd burningbros_test
     ```
 
 2.  **Install dependencies:**
